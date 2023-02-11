@@ -1,2 +1,0 @@
-La carpeta archivos quedo en la web en nuetro repoitorio.
-Ahora podemos manipular la carpeta y añadir archivos, debido a que el repositorio esta ya creado.
