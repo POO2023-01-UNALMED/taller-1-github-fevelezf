@@ -1,0 +1,2 @@
+La carpeta archivos aparecio creada en la web dado que se hizo el commit
+Y ya se puede crear commmit y hacer la carpeta porque el repositorio esta creado.
