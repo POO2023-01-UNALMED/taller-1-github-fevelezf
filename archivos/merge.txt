@@ -1,3 +1,6 @@
 Felipe Velez Fernandez
 23 Años
 Mis aspiraciones con esta materia es aprender mucho y saber manejar todos los conceptos de la programacion orientada a objetos y de tal manera aplicarlo en mi carrera.
+La carpeta archivos aparecio creada en la web dado que se hizo el commit
+Y ya se puede crear commmit y hacer la carpeta porque el repositorio esta creado.
+Es importante tener cuidado con realizar cambios al mismo tiempo en dos o mas dispositivos porque se crea un conflicto ya que uno esta trabajando localmente en la ultima actualizacion, pero si otra persona subio un archivo mas actualizado del que estas trabajando, a la hora de subirlo se generara un conflicto y tocara resolverlo con un editor de texto, y muchas veces se puede perder trabajo. 
